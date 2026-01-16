@@ -1,2 +1,1 @@
-# baongoc
-Ảnh nền 
+
